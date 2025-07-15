@@ -37,3 +37,4 @@ This project is an AI-powered assistive tool for the **visually impaired**, usin
 ```bash
 git clone https://github.com/yourusername/visually-impaired-assistant.git
 cd visually-impaired-assistant
+jupyter notebook
